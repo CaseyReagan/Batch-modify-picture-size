@@ -1,0 +1,1 @@
+Batch modify picture size
